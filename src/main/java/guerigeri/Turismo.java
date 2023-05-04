@@ -16,8 +16,8 @@ public class Turismo extends Vehiculo {
 
     // Si no tiene constructor da error 
 
-    public Turismo(int puertas, boolean marchaAutomatica, Long bastidor, String matricula, String marca, String modelo, String color, double tarifa) {
-        super(bastidor, matricula, marca, modelo, color, tarifa);
+    public Turismo(int puertas, boolean marchaAutomatica, Long bastidor, String matricula, String marca, String modelo, String color, double tarifa, boolean disponible) {
+        super(bastidor, matricula, marca, modelo, color, tarifa, disponible);
         this.puertas = puertas;
         this.marchaAutomatica = marchaAutomatica;
     }
@@ -35,14 +35,15 @@ public class Turismo extends Vehiculo {
     public String toString() {
         StringBuilder sb = new StringBuilder();
         sb.append("Turismo{");
-        sb.append(":").append(puertas);
-        sb.append(":").append(marchaAutomatica);
-        sb.append(":").append(super.getBastidor());
-        sb.append(":").append(super.getMatricula());
-        sb.append(":").append(super.getMarca());
-        sb.append(":").append(super.getModelo());
-        sb.append(":").append(super.getColor());
-        sb.append(":").append(super.getTarifa());
+        sb.append("Puertas = ").append(puertas).append(":");
+        sb.append("Marcha = ").append(marchaAutomatica).append(":");
+        sb.append("Bastidor = ").append(super.getBastidor()).append(":");
+        sb.append("Matricula = ").append(super.getMatricula()).append(":");
+        sb.append("Marca = ").append(super.getMarca()).append(":");
+        sb.append("Modelo = ").append(super.getModelo()).append(":");
+        sb.append("Color = ").append(super.getColor()).append(":");
+        sb.append("Tarifa = ").append(super.getTarifa()).append(":");
+        sb.append("Disponible = ").append(super.isDisponible()).append(":");
         sb.append('}');
         return sb.toString();
     }

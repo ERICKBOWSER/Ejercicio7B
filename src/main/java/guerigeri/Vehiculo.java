@@ -17,7 +17,7 @@ public class Vehiculo {
     private double tarifa; 
     private boolean disponible;
 
-    public Vehiculo(Long bastidor, String matricula, String marca, String modelo, String color, double tarifa) {
+    public Vehiculo(Long bastidor, String matricula, String marca, String modelo, String color, double tarifa, boolean disponible) {
         this.bastidor = bastidor;
         this.matricula = matricula;
         this.marca = marca;
@@ -87,13 +87,13 @@ public class Vehiculo {
     public String toString() {
         StringBuilder sb = new StringBuilder();
         sb.append("Vehiculo{");
-        sb.append(":").append(bastidor);
-        sb.append(":").append(matricula);
-        sb.append(":").append(marca);
-        sb.append(":").append(modelo);
-        sb.append(":").append(color);
-        sb.append(":").append(tarifa);
-        sb.append(":").append(disponible);
+        sb.append("Bastidor = ").append(bastidor).append(":");
+        sb.append("Matricula = ").append(matricula).append(":");
+        sb.append("Marca = ").append(marca).append(":");
+        sb.append("Modelo = ").append(modelo).append(":");
+        sb.append("Color = ").append(color).append(":");
+        sb.append("Tarifa = ").append(tarifa).append(":");
+        sb.append("Disponible = ").append(disponible).append(":");
         sb.append('}');
         return sb.toString();
     }

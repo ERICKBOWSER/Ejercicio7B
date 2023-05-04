@@ -1,0 +1,30 @@
+0 - Turismo{Puertas = 4:Marcha = true:Bastidor = 9223372036854775807:Matricula = 2343jakl:Marca = Ford:Modelo = G1:Color = Negro:Tarifa = 60000.0:Disponible = false:}
+0 - Turismo{Puertas = 4:Marcha = true:Bastidor = 9223372036854775807:Matricula = 2342sdfa:Marca = Nissan:Modelo = J2:Color = Blanco:Tarifa = 80000.0:Disponible = false:}
+0 - Turismo{Puertas = 5:Marcha = true:Bastidor = 9223372036854775807:Matricula = 0893SDFA:Marca = Opel:Modelo = astra:Color = Rojo:Tarifa = 89232.0:Disponible = false:}
+0 - Turismo{Puertas = 4:Marcha = true:Bastidor = 9223372036854775807:Matricula = 2342DFGG:Marca = Abarth:Modelo = JK:Color = Naranja:Tarifa = 12303.0:Disponible = false:}
+0 - Turismo{Puertas = 0:Marcha = true:Bastidor = 9223372036854775807:Matricula = 0923UITT:Marca = Alfa romeo:Modelo = IO:Color = Verder:Tarifa = 123423.0:Disponible = false:}
+0 - Turismo{Puertas = 0:Marcha = true:Bastidor = 9223372036854775807:Matricula = 2390IIKT:Marca = Aiways:Modelo = JK:Color = Marron:Tarifa = 234290.0:Disponible = false:}
+0 - Turismo{Puertas = 0:Marcha = true:Bastidor = 9223372036854775807:Matricula = 0932JÑLT:Marca = BYD:Modelo = O3:Color = Azul:Tarifa = 12300.0:Disponible = false:}
+0 - Turismo{Puertas = 0:Marcha = true:Bastidor = 9223372036854775807:Matricula = 0923ÑLJK:Marca = Citroen:Modelo = I2:Color = Negro:Tarifa = 90233.0:Disponible = false:}
+0 - Turismo{Puertas = 0:Marcha = true:Bastidor = 9223372036854775807:Matricula = 0343JLKS:Marca = bENTLEY:Modelo = I0:Color = Rojo:Tarifa = 234033.0:Disponible = false:}
+0 - Turismo{Puertas = 0:Marcha = true:Bastidor = 9223372036854775807:Matricula = 2343OPWE:Marca = Audi:Modelo = kñl:Color = Amarillo:Tarifa = 123434.0:Disponible = false:}
+1 - Deportivo{Cilindrada = 2390:Bastidor = 9223372036854775807:Matricula = 2342DFGG:Marca = Abarth:Modelo = JK:Color = Naranja:Tarifa = 12303.0:Disponible = false:}
+1 - Deportivo{Cilindrada = 1092:Bastidor = 9223372036854775807:Matricula = 0343JLKS:Marca = bENTLEY:Modelo = I0:Color = Rojo:Tarifa = 234033.0:Disponible = false:}
+1 - Deportivo{Cilindrada = 1209:Bastidor = 9223372036854775807:Matricula = 2342sdfa:Marca = Nissan:Modelo = J2:Color = Blanco:Tarifa = 80000.0:Disponible = false:}
+1 - Deportivo{Cilindrada = 1200:Bastidor = 9223372036854775807:Matricula = 0893SDFA:Marca = Opel:Modelo = astra:Color = Rojo:Tarifa = 89232.0:Disponible = false:}
+1 - Deportivo{Cilindrada = 1299:Bastidor = 9223372036854775807:Matricula = 2343OPWE:Marca = Audi:Modelo = kñl:Color = Amarillo:Tarifa = 123434.0:Disponible = false:}
+1 - Deportivo{Cilindrada = 4003:Bastidor = 9223372036854775807:Matricula = 2343jakl:Marca = Ford:Modelo = G1:Color = Negro:Tarifa = 60000.0:Disponible = false:}
+1 - Deportivo{Cilindrada = 2239:Bastidor = 9223372036854775807:Matricula = 0932JÑLT:Marca = BYD:Modelo = O3:Color = Azul:Tarifa = 12300.0:Disponible = false:}
+1 - Deportivo{Cilindrada = 2339:Bastidor = 9223372036854775807:Matricula = 0932JÑLT:Marca = BYD:Modelo = O3:Color = Azul:Tarifa = 12300.0:Disponible = false:}
+1 - Deportivo{Cilindrada = 2323:Bastidor = 9223372036854775807:Matricula = 2342sdfa:Marca = Nissan:Modelo = J2:Color = Blanco:Tarifa = 80000.0:Disponible = false:}
+1 - Deportivo{Cilindrada = 2323:Bastidor = 9223372036854775807:Matricula = 0923UITT:Marca = Alfa romeo:Modelo = IO:Color = Verder:Tarifa = 123423.0:Disponible = false:}
+2 - Furgoneta{Carga = 760:Volumen = 230:Bastidor = 9223372036854775807:Matricula = 0923UITT:Marca = Alfa romeo:Modelo = IO:Color = Verder:Tarifa = 123423.0:Disponible = false:}
+2 - Furgoneta{Carga = 456:Volumen = 234:Bastidor = 9223372036854775807:Matricula = 2342sdfa:Marca = Nissan:Modelo = J2:Color = Blanco:Tarifa = 80000.0:Disponible = false:}
+2 - Furgoneta{Carga = 567:Volumen = 123:Bastidor = 9223372036854775807:Matricula = 0932JÑLT:Marca = BYD:Modelo = O3:Color = Azul:Tarifa = 12300.0:Disponible = false:}
+2 - Furgoneta{Carga = 565:Volumen = 122:Bastidor = 9223372036854775807:Matricula = 0932JÑLT:Marca = BYD:Modelo = O3:Color = Azul:Tarifa = 12300.0:Disponible = false:}
+2 - Furgoneta{Carga = 673:Volumen = 230:Bastidor = 9223372036854775807:Matricula = 2343OPWE:Marca = Audi:Modelo = kñl:Color = Amarillo:Tarifa = 123434.0:Disponible = false:}
+2 - Furgoneta{Carga = 343:Volumen = 543:Bastidor = 9223372036854775807:Matricula = 2342DFGG:Marca = Abarth:Modelo = JK:Color = Naranja:Tarifa = 12303.0:Disponible = false:}
+2 - Furgoneta{Carga = 555:Volumen = 234:Bastidor = 9223372036854775807:Matricula = 0343JLKS:Marca = bENTLEY:Modelo = I0:Color = Rojo:Tarifa = 234033.0:Disponible = false:}
+2 - Furgoneta{Carga = 340:Volumen = 233:Bastidor = 9223372036854775807:Matricula = 2342sdfa:Marca = Nissan:Modelo = J2:Color = Blanco:Tarifa = 80000.0:Disponible = false:}
+2 - Furgoneta{Carga = 234:Volumen = 230:Bastidor = 9223372036854775807:Matricula = 0893SDFA:Marca = Opel:Modelo = astra:Color = Rojo:Tarifa = 89232.0:Disponible = false:}
+2 - Furgoneta{Carga = 345:Volumen = 2340:Bastidor = 9223372036854775807:Matricula = 2343jakl:Marca = Ford:Modelo = G1:Color = Negro:Tarifa = 60000.0:Disponible = false:}
